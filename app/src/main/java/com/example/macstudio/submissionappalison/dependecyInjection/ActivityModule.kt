@@ -1,6 +1,6 @@
 package com.example.macstudio.submissionappalison.dependecyInjection
 
-import com.example.macstudio.submissionappalison.MainActivity
+import com.example.macstudio.submissionappalison.ui.MainActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 
